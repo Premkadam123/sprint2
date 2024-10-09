@@ -164,6 +164,7 @@ VALUES
 (1896, 'Athens', 'Wrestling', 'Wrestling Gre-R', 'CHRISTOPOULOS, Stephanos', 'GRE', 'Men', 'Open Event', 'Bronze'),
 (1896, 'Athens', 'Wrestling', 'Wrestling Gre-R', 'SCHUMANN, Carl', 'GER', 'Men', 'Open Event', 'Gold'),
 (1896, 'Athens', 'Wrestling', 'Wrestling Gre-R', 'TSITAS, Georgios', 'GRE', 'Men', 'Open Event', 'Silver');
+select * from OlympicResults;
 
 
 
